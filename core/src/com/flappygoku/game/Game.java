@@ -265,7 +265,7 @@ public class Game extends ApplicationAdapter {
 		alturaDispositivo= VIRTUAL_HEIGHT;
 		posicaoInicialVerticalGoku = alturaDispositivo /2;
 		posicaoTorreHorizontal = larguraDispositivo;
-		espacoEntreTorre =  400;
+		espacoEntreTorre =  360;
 
 		//configurações dos textos
 		textoPontuaçao = new BitmapFont();
